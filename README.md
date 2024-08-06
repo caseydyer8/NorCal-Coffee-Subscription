@@ -14,4 +14,4 @@ I was able to answer all of these questions and more with the data that I came u
 
 - To see the original data set use: NorCal-Coffee-Subscription/Coffee Subscription Project.xlxs and then you can download it in Excel
 - For the work in R see: NorCal-Coffee-Subscription/NorCal-Coffee.md
-- To see the visuals from Tableau see: NorCal-Coffee-Subscription/Tableau Vizzes.md
+- To see the visuals from Tableau see: Tableau Vizzes.md
