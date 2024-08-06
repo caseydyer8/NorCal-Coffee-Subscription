@@ -12,6 +12,7 @@ I wanted to do this project for a couple reasons. I wanted to see what the best 
 I was able to answer all of these questions and more with the data that I came up with. For this project I used Excel, Sheets, Docs, Word, SQL, Tableau, and R. I was able to analyze it using spreadsheets and organize it so I could then use it in SQL and R as well as make some visuals to represent my findings. I was able to use SQL to rework my dataset to make it easier to read and able to answer all three of my questions. Using SQL made my data look a lot cleaner once I had cleaned and validated it. Then I was able to take my data over to Tableau to create some nice looking visualizations. Lastly, I used R much like I used SQL to manipulte the data and clean it for analysis and I could easily answer all three questions with R. I was also able to create a viz with R and it is now posted in the Issues section of the project. I had a lot of fun doing this project and getting to further practice the skills that I have learned throughout the Google Data Analytics Certificate Program. I will keep adding my work files to the Issues section of the project.
 
 
-- To see the original data set use: NorCal-Coffee-Subscription/Coffee Subscription Project.xlxs and then you can download it in Excel
-- For the work in R see: NorCal-Coffee-Subscription/NorCal-Coffee.md
+- To see the original data you can download a copy in Excel here: Coffee Subscription Project.xlxs 
+- For the work in R see: NorCal-Coffee.md
 - To see the visuals from Tableau see: Tableau Vizzes.md
+- For files used in the project see: NorCal-Coffee_files
