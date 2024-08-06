@@ -6,7 +6,7 @@ This file contains the interactive Tableau visualizations for the NorCal Coffee 
 ## Visualization: Price per Cup
 Here is the interactive Tableau visualization that compares the cost per cup for various coffee subscription models:
 
-<iframe src="https://public.tableau.com/views/NorCalCoffeeProject/PriceperCup?:embed=y&:display_count=yes" width="800" height="600"></iframe>
+<"https://public.tableau.com/views/NorCalCoffeeProject/PriceperCup?:embed=y&:display_count=yes"></iframe>
 
 ## Key Findings
 - **Best Price per Pound:** Equator's Seasonal Blends ($22.40 per lb)
