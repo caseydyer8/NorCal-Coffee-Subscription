@@ -215,11 +215,11 @@ the best price per pound at \$22.40/lb.
 The overall cost could be calculated by taking the price per lb and
 multiplying it by 2 (22.4x2=44.8) to get the cost per shipment, next to
 get the total cost we need to know that the subscription model is for 3
-months and that we would get a 2 lb bag per month. We can calculate the
+months and that we would get two 2 lb bags per month. We can calculate the
 overall cost of the 3 month subscription by multiplying the cost per
-shipment by 3 months (44.8x3=134.4). The total cost comes out to
-\$134.40 for 3 shipments of 2 lb bags of the Seasonal Blends
-Subscription from Equator Coffee.
+shipment by 6 total shipments (44.8x6=268.80). The total cost comes out to
+\$268.80 for 6 shipments of 2 lb bags of the Seasonal Blends
+Subscription from Equator Coffee. 
 
 #### \* What would the cost be when factored down to each cup brewed in my personal Chemex for the subscription model I choose?
 
