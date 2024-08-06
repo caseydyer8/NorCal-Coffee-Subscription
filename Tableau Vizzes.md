@@ -10,8 +10,8 @@ Here is the interactive Tableau visualization that compares the cost per cup for
 
 ## Key Findings
 - **Best Price per Pound:** Equator's Seasonal Blends ($22.40 per lb)
-- **Overall Cost for 3 Months:** Equator's Curated Fair Trade ($216 for 3 months)
-- **Cost per Cup:** Equator's Seasonal Blends and Curated Fair Trade ($0.84 per cup)
+- **Overall Cost for 3 Months:** Equator's Seasonal Blends ($268.80 for 3 months)
+- **Cost per Cup:** Equator's Seasonal Blends and Curated Fair Trade are equal in price when broken down to the cup ($0.84 per cup)
 
 ## Conclusion
 The analysis indicates that Equator provides the most cost-effective options for premium coffee subscriptions. These findings can help coffee enthusiasts like myself make informed decisions about their/our coffee subscriptions.
