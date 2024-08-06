@@ -118,7 +118,7 @@ ggplot(data = NorCalCoffee)+
   geom_point(mapping = aes(x=`Cost per Cup`, y=`Beans`, color=`Beans`), size=5)
 ```
 
-<img src="NorCal-Coffee_files/figure-gfm/visual-1.png" width="80%" style="display: block; margin: auto;" />
+<img src="NorCal-Coffee_files/visual-1.png" width="80%" style="display: block; margin: auto;" />
 
 ## More Cleaning and Manuipulation With A Plot
 
@@ -145,7 +145,7 @@ ggplot(data = CalCoffee) +
   geom_point(mapping = aes(x = `$ per Cup/$ per lb`, y = `Beans`, color = `Beans`), size = 5)
 ```
 
-<img src="NorCal-Coffee_files/figure-gfm/mutate and relabel x-axis-1.png" width="80%" style="display: block; margin: auto;" />
+<img src="NorCal-Coffee_files/mutate and relabel x-axis-1.png" width="80%" style="display: block; margin: auto;" />
 
 ## Reordering Data in Plot
 
@@ -173,7 +173,7 @@ ggplot(data = CalCoffee1) +
     ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
     ## generated.
 
-<img src="NorCal-Coffee_files/figure-gfm/reorder data, change to bar graph-1.png" width="80%" style="display: block; margin: auto;" />
+<img src="NorCal-Coffee_files/reorder data, change to bar graph-1.png" width="80%" style="display: block; margin: auto;" />
 
 ## Adding Annotations to My Plot and Resizing The Final Plot
 
@@ -191,7 +191,7 @@ ggplot(data = CalCoffee1) +
                       caption = "Data collected by Casey Dyer, May 2024")
 ```
 
-<img src="NorCal-Coffee_files/figure-gfm/final plot-1.png" width="80%" style="display: block; margin: auto;" />
+<img src="NorCal-Coffee_files/final plot-1.png" width="80%" style="display: block; margin: auto;" />
 
 ``` r
 ggsave("Coffee.final.png",
