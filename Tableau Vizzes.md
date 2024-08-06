@@ -4,9 +4,9 @@
 This file contains the interactive Tableau visualizations for the NorCal Coffee Subscription Project. These visualizations help to analyze and compare different coffee subscription models from Northern California roasters.
 
 ## Visualization: Price per Cup
-Here is the interactive Tableau visualization that compares the cost per cup for various coffee subscription models:
+Here is the interactive Tableau visualization that compares the cost per cup for various coffee subscription models, once on this visual you can toggle through the other tabs to see the other visuals:
 
-<"https://public.tableau.com/views/NorCalCoffeeProject/PriceperCup?:embed=y&:display_count=yes"></iframe>
+<"https://public.tableau.com/views/NorCalCoffeeProject/PriceperCup?:embed=y&:display_count=yes">
 
 ## Key Findings
 - **Best Price per Pound:** Equator's Seasonal Blends ($22.40 per lb)
@@ -14,4 +14,4 @@ Here is the interactive Tableau visualization that compares the cost per cup for
 - **Cost per Cup:** Equator's Seasonal Blends and Curated Fair Trade ($0.84 per cup)
 
 ## Conclusion
-The analysis indicates that Equator provides the most cost-effective options for premium coffee subscriptions. These findings can help coffee enthusiasts make informed decisions about their coffee subscriptions.
+The analysis indicates that Equator provides the most cost-effective options for premium coffee subscriptions. These findings can help coffee enthusiasts like myself make informed decisions about their/our coffee subscriptions.
